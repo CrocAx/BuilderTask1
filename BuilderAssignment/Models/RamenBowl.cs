@@ -26,8 +26,8 @@ namespace BuilderAssignment.Models
         }
         public string FinishedBowlOfRamen()
         {
-            string toppings = string.Join(", ", Toppings);
-            string extras = string.Join(", ", Extras);
+            string toppings = string.Join(" & ", Toppings);
+            string extras = string.Join(" & ", Extras);
 
             return $"Broth: {Broth};\nNoodles: {Noodle};\nToppings: {toppings};\nExtras: {extras};\n";
         }
