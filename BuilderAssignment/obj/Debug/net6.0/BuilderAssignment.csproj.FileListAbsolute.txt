@@ -1,0 +1,14 @@
+C:\Users\NaN\source\repos\BuilderTask1\BuilderAssignment\obj\Debug\net6.0\BuilderAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NaN\source\repos\BuilderTask1\BuilderAssignment\obj\Debug\net6.0\BuilderAssignment.AssemblyInfoInputs.cache
+C:\Users\NaN\source\repos\BuilderTask1\BuilderAssignment\obj\Debug\net6.0\BuilderAssignment.AssemblyInfo.cs
+C:\Users\NaN\source\repos\BuilderTask1\BuilderAssignment\obj\Debug\net6.0\BuilderAssignment.csproj.CoreCompileInputs.cache
+C:\Users\NaN\source\repos\BuilderTask1\BuilderAssignment\bin\Debug\net6.0\BuilderAssignment.exe
+C:\Users\NaN\source\repos\BuilderTask1\BuilderAssignment\bin\Debug\net6.0\BuilderAssignment.deps.json
+C:\Users\NaN\source\repos\BuilderTask1\BuilderAssignment\bin\Debug\net6.0\BuilderAssignment.runtimeconfig.json
+C:\Users\NaN\source\repos\BuilderTask1\BuilderAssignment\bin\Debug\net6.0\BuilderAssignment.dll
+C:\Users\NaN\source\repos\BuilderTask1\BuilderAssignment\bin\Debug\net6.0\BuilderAssignment.pdb
+C:\Users\NaN\source\repos\BuilderTask1\BuilderAssignment\obj\Debug\net6.0\BuilderAssignment.dll
+C:\Users\NaN\source\repos\BuilderTask1\BuilderAssignment\obj\Debug\net6.0\refint\BuilderAssignment.dll
+C:\Users\NaN\source\repos\BuilderTask1\BuilderAssignment\obj\Debug\net6.0\BuilderAssignment.pdb
+C:\Users\NaN\source\repos\BuilderTask1\BuilderAssignment\obj\Debug\net6.0\BuilderAssignment.genruntimeconfig.cache
+C:\Users\NaN\source\repos\BuilderTask1\BuilderAssignment\obj\Debug\net6.0\ref\BuilderAssignment.dll

@@ -13,11 +13,25 @@ namespace BuilderAssignment.Models
     public class RamenBowl
     {
         //TODO#1: Add attributes for each enum in IngredientEnums.cs file
+        public BrothType Broth {  get; set; }
+        public NoodleType Noodle { get; set; }
+        public List<ToppingType> Toppings { get; set; }
+        public List<ExtraType> Extras { get; set; }
 
         //TODO#2: Return description of finished bowl of ramen
-        public static string FinishedBowlOfRamen()
+        public RamenBowl()
         {
-            return "";
+            Toppings = new List<ToppingType>();
+            Extras = new List<ExtraType>();
+        }
+        public string FinishedBowlOfRamen()
+        {
+            string toppings = string.Join(", ", Toppings);
+            string extras = string.Join(", ", Extras);
+
+            return $"Broth: {Broth};\nNoodles: {Noodle};\nToppings: {toppings};\nExtras: {extras};\n";
         }
     }
+
+
 }

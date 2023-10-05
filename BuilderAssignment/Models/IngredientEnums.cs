@@ -26,7 +26,7 @@
     /// <summary>
     /// Enum values for Toppings
     /// </summary>
-    public enum Topping
+    public enum ToppingType
     {
         ChashuPork,
         GreenOnions,
@@ -37,8 +37,9 @@
     /// <summary>
     /// Enum values for Extras
     /// </summary>
-    public enum Extra
+    public enum ExtraType
     {
+        NoExtras,
         ExtraSpice,
         SoftBoiledEgg,
         Corn

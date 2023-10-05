@@ -12,11 +12,18 @@ namespace BuilderAssignment.Builders
         // - Setting noodles
         // - Adding toppings
         // - Adding Extras
+        
+        void settingBroth();
+        void settingNoodles();
+        void addingToppings();
+        void addingExtras();
+
 
         /// <summary>
         /// Returns the value of build RamenBowl
         /// </summary>
         /// <returns></returns>
         RamenBowl GetRamen();
+
     }
 }
